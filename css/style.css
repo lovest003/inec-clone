@@ -189,20 +189,20 @@ span {
   }
 
   25% {
-    background-image: url("images/flag.jpeg");
+    background-image: url("..//images/flag.jpeg");
   }
 
   50% {
-    background-image: url("images/chairman.jpeg");
+    background-image: url("..//images/chairman.jpeg");
   }
 
   75% {
-    background-image: url("/images/images\ of\ inec.jpeg");
+    background-image: url("..//images/images\ of\ inec.jpeg");
     /* color: black; */
   }
 
   100% {
-    background-image: url("/images/images\ of\ chairman.jpeg");
+    background-image: url("..//images/images\ of\ chairman.jpeg");
   }
 }
 
